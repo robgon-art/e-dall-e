@@ -11,7 +11,7 @@ The source code and generated images are released under the [CC BY-SA license](h
 ![CC BYC-SA](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
 
 ## Google Colabs
-* [E-DALL-E Image Generator]()
+* [DALL-E Mini Image Generator]()
 * [E-DALL-E Image Expander]()
 
 ## Citation
