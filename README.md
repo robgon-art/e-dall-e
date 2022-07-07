@@ -12,7 +12,7 @@ The source code and generated images are released under the [CC BY-SA license](h
 
 ## Google Colabs
 * [DALL-E Mini Image Generator](https://colab.research.google.com/github/robgon-art/e-dall-e/blob/main/DALL_E_Mini_Image_Generator.ipynb)
-* [E-DALL-E Image Expander]()
+* [E-DALL-E Image Expander](https://colab.research.google.com/github/robgon-art/e-dall-e/blob/main/E_DALL_E_Image_Expander.ipynb)
 
 ## Citation
 To cite this repository:
