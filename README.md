@@ -11,7 +11,7 @@ The source code and generated images are released under the [CC BY-SA license](h
 ![CC BYC-SA](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
 
 ## Google Colabs
-* [DALL-E Mini Image Generator](https://colab.research.google.com/github/robgon-art/e-dall-e/blob/main/DALL_E_Mini_Image_Generator.ipynb) - Note that you will need an account on https://wandb.ai and an API Key in order to run
+* [DALL-E Mini Image Generator](https://colab.research.google.com/github/robgon-art/e-dall-e/blob/main/DALL_E_Mini_Image_Generator.ipynb)
 * [E-DALL-E Image Expander](https://colab.research.google.com/github/robgon-art/e-dall-e/blob/main/E_DALL_E_Image_Expander.ipynb)
 
 ## Citation
